@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Intelligence",
+  "description": "Ultra-luxury SaaS intelligence platform for extracting key contributions, methodology, limitations, and future directions from research papers, multi-paper synthesis, cross-language translation, voice conversations, and Workspace sync.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
